@@ -1,0 +1,62 @@
+  body{
+      margin: 0px;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+  }
+  h1{
+      color: pink;
+      margin-top: 100px;
+      font-size: 80px;
+      line-height: 2;
+      font-family: 'Sacramento', cursive;
+    }
+  h2{
+    color: pink;
+    font-size: 2.5rem;
+    font-family:  sans-serif;
+    font-weight: bold;
+  }
+  h3{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .top-container{
+      background-color: #e4f9f5;
+  }   
+  
+  
+  
+  
+  .skill-row{
+       width: 50%;
+       margin: 100px auto 100px auto;
+       text-align: left;
+       line-height: 2;
+  }
+ 
+  .smello-skills{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+  }
+  .coconut-head{
+    width: 45%;
+    float: right;
+    margin-left: 30px;
+  }
+  .beauty{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  .bottom-cloud{
+     
+      position: absolute;
+    
+  }
+  .top-cloud{
+      position: relative;
+      left: 250px;
+      top: 100px;
+  }
+ 
